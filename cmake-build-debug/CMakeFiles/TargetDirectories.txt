@@ -1,0 +1,3 @@
+C:/Users/28577/CLionProjects/LexAnalyzer/cmake-build-debug/CMakeFiles/LexAnalyzer.dir
+C:/Users/28577/CLionProjects/LexAnalyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/28577/CLionProjects/LexAnalyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

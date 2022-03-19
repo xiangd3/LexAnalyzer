@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/28577/CLionProjects/LexAnalyzer/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+string
+-
+fstream
+-
+ostream
+-
+sstream
+-
+cstdlib
+-
+
